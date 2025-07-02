@@ -7,7 +7,7 @@ Landing Page moderna e responsiva desenvolvida com foco em boas práticas de Nex
 ## 🚀 Tecnologias utilizadas
 
 - ✅ Next.js
-- ✅ CSS Module
+- ✅ CSS Module(SASS)
 
 ## 📌 Funcionalidades
 
