@@ -8,6 +8,7 @@ Landing Page moderna e responsiva desenvolvida com foco em boas práticas de Nex
 
 - ✅ Next.js
 - ✅ CSS Module(SASS)
+- ✅ Verce
 
 ## 📌 Funcionalidades
 
